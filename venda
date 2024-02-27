@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site de Vendas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Meu Site de Vendas</h1>
+    </header>
+    <section id="products">
+        <!-- Lista de produtos aqui -->
+    </section>
+    <footer>
+        <p>&copy; 2024 Meu Site de Vendas</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
